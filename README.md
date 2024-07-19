@@ -2,7 +2,7 @@
 MATLAB codes for spwm (bipolar and unipolar) inverter design
 
 
-This repository contains the MATLAB code for the SPWM inverter design presented in our IEEE conference paper.
+This repository contains the MATLAB code for the SPWM inverter design presented in our IEEE conference paper.Please cite the paper if you use my code.
 
 ## Installation
 
